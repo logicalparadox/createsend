@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/logicalparadox/createsend.png)](http://travis-ci.org/logicalparadox/createsend)
 # CreateSend API Wrapper
 
 Please view the [documentation site](http://alogicalparadox.com/createsend) for more information.
